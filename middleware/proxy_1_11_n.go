@@ -3,7 +3,7 @@
 package middleware
 
 import (
-	"github.com/labstack/echo"
+	"github.com/spencersutton/echo"
 	"net/http"
 	"net/http/httputil"
 )
